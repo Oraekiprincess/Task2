@@ -13,4 +13,4 @@ Git fetch is a command that allows you to download objects from another reposito
 Rebase is one of Git utilities that specializes in integrating changes from one branch onto another. git rebase <base> is the command to perfom the standard rebase.
 
 
-git cherry-pick means choosing a commit from one branch and applying it to another branch. the command for it is: git cherry-pick<commit-hash>
+git cherry-pick means choosing a commit from one branch and applying it to another branch. the command for it is: git cherry-pick <commit-hash>
