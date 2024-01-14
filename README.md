@@ -1,5 +1,6 @@
 Version control (source control) is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
 
+## Explain the difference between Git and GitHUb
 
 Git is a version control system installed locally on the computer. Git allows developers to track changes made to a code, while GitHub is a cloud-based hosting service used for hosting git repositories. You can use Git without GitHub but you can't use GitHub without Git.
 
